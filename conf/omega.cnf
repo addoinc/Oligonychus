@@ -1,0 +1,2 @@
+url : field=url hash boolean=Q unique=Q
+text : index field=sample

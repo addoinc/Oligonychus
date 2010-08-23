@@ -1,0 +1,16 @@
+==========
+    Oligonychus - A spider written in Perl 5, used for fetching schedules of various TV channels in India
+==========
+
+    This code was developed By Azri's High On Rails Team.
+    You can redistribute it and/or modify it under either the terms of the GPL version 2 (see the file GPL).
+
+    Usage: 
+    	   ./bin/spider.ksh 
+
+    Requires:
+
+            Perl 5 and associated perl modules
+	    ksh -- yeah.. we like ksh as our shell... we are children of the "korn"! ;-)
+
+	    If you want to enable indexing of the schedule then you need to install http://xapian.org/.
